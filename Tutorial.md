@@ -1,7 +1,7 @@
 # NLP tutorial
 
 ## Table of contents
-* [LIWC](#LIWC)
+* [May 13th Linguistic Inquiry and Word Count (LIWC)](#May 13th Linguistic Inquiry and Word Count (LIWC))
 2. 
 3. SHAP and interpretable machine learning
 4. BERT Embeddings
