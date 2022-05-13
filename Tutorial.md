@@ -55,7 +55,7 @@ Expanded dictionary include the followings:
 Culture, lifestyle, physical, states, motives, perception, time orientation, conversational.
 
 For internal validity, each subcategories have Cronbach's alpha. 
-Crocnbach's alpha: https://stats.oarc.ucla.edu/spss/faq/what-does-cronbachs-alpha-mean/#:~:text=Cronbach's%20alpha%20is%20a%20measure,that%20the%20measure%20is%20unidimensional.
+If you do not know what Cronbach's alpha is, please check [Crocnbach's alpha](https://stats.oarc.ucla.edu/spss/faq/what-does-cronbachs-alpha-mean/#:~:text=Cronbach's%20alpha%20is%20a%20measure,that%20the%20measure%20is%20unidimensional).
 
 
 ### Questions to be answered. 
