@@ -20,7 +20,7 @@ people use in everyday life tell us about their psychological states: their beli
 thinking habits, lived experiences, social relationships, and personalities." In other words,
 "people's words have tremendous psychological value." It fits the goal of NLP.
 
-The price of a 90-day license is $40 which is not too bad. Thank you BDS for your generous scholarship. Thank you, Francesca.
+The price of a 90-day license is $40 which is not too bad. Thank you BDS for your generous scholarship.
 I want to make a review of whether it is worth it and what kind of insights it provides.
 
 ### How to install:
