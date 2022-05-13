@@ -1,14 +1,15 @@
-This is a learning journey of my Master's Thesis
+# NLP tutorial
 
-I cover the following topics
-1. LIWC
-2. SHAP and interpretable machine learning
-3. BERT Embeddings
-4. SVM and Deep learning (Tensorflow, Pytorch, Google Colab Pro - is it worthy?)
-5. Twarc and Twitter API
+## Table of contents
+1. [LIWC](*May 13th: Linguistic Inquiry and Word Count (LIWC))
+2. 
+3. SHAP and interpretable machine learning
+4. BERT Embeddings
+5. SVM and Deep learning (Tensorflow, Pytorch, Google Colab Pro - is it worthy?)
+6. Twarc and Twitter API
 
 
-May 13th: Linguistic Inquiry and Word Count (LIWC)
+# May 13th: Linguistic Inquiry and Word Count (LIWC)
 The main website of LIWC can be found here: https://www.liwc.app/
 It says: "LIWC is the gold standard in software for analyzing word use. It can be used to study a
 single individual, groups of people over time or all of social media."
