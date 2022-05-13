@@ -6,7 +6,7 @@
 3. SHAP and interpretable machine learning
 4. BERT Embeddings
 5. SVM 
-6. Deep learning (Tensorflow, Pytorch)
+6. Deep learning (Tensorflow, Pytorch with Google Colab pro GPU)
 7. [Twarc and Twitter API](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#twarch-and-twitter-api)
 
 
