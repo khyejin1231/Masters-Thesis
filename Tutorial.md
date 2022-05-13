@@ -63,5 +63,5 @@ If you do not know what Cronbach's alpha is, please check [Crocnbach's alpha](ht
 About preprocessing. emoji, hashtag, etc.
 Does BERT contains the information covered in LIWC?
 
-##Twarch and Twitter API
+## Twarch and Twitter API
 
