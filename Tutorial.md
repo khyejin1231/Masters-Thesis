@@ -2,7 +2,7 @@
 
 ## Table of contents
 1. [May 13th Linguistic Inquiry and Word Count (LIWC)](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#may-13th-linguistic-inquiry-and-word-count-liwc)
-2. 
+2. Google colab Review
 3. SHAP and interpretable machine learning
 4. BERT Embeddings
 5. SVM and Deep learning (Tensorflow, Pytorch, Google Colab Pro - is it worthy?)
@@ -10,6 +10,7 @@
 
 
 ## May 13th Linguistic Inquiry and Word Count (LIWC)
+### Introduction
 The main website of LIWC can be found here: https://www.liwc.app/
 It says: "LIWC is the gold standard in software for analyzing word use. It can be used to study a
 single individual, groups of people over time or all of social media."
@@ -22,10 +23,10 @@ thinking habits, lived experiences, social relationships, and personalities." In
 The price of a 90-day license is $40 which is not too bad. Thank you BDS for your generous scholarship. Thank you, Francesca.
 I want to make a review of whether it is worth it and what kind of insights it provides.
 
-How to install:
+### How to install:
 Installaion process is well explained and you get a separate email on it.
 
-Manual:
+### Manual:
 You can find the manual of the software here: https://www.liwc.app/help/psychometrics-manuals
 I want to summarize the important points so that I can remember it in due time.
 Firstly, there are two versions LIWC-22 and LIWC-15. I decided to use a newer version LIWC-22.
@@ -57,7 +58,7 @@ For internal validity, each subcategories have Cronbach's alpha.
 Crocnbach's alpha: https://stats.oarc.ucla.edu/spss/faq/what-does-cronbachs-alpha-mean/#:~:text=Cronbach's%20alpha%20is%20a%20measure,that%20the%20measure%20is%20unidimensional.
 
 
-Questions to be answered. 
+### Questions to be answered. 
 About preprocessing. emoji, hashtag, etc.
 Does BERT contains the information covered in LIWC?
 
