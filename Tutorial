@@ -31,7 +31,7 @@ Firstly, there are two versions LIWC-22 and LIWC-15. I decided to use a newer ve
 There are multiple modules in LIWC-22, namely, LIWC Analysis, Dictionary workbench, Word frequencies and word clouds
 Topic modeling with the meaning extraction method, Narrative arc, Language style matching, Contextualizer, Case studies,
 and Prepare transcripts. 
-
+ 
 The main model is LIWC Analysis. LIWC Analysis uses an internal dictionary which is composed of over
 12,000 words, word stems, phrases, and select emoticons. The manual covers how the LIWC-22 Dictionary is developed over time.
 The LIWC-22 dictionary is tested on corpus that includes multiple sames of college applications, blogs
