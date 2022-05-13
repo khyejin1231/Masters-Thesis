@@ -5,8 +5,9 @@
 2. Google colab Review
 3. SHAP and interpretable machine learning
 4. BERT Embeddings
-5. SVM and Deep learning (Tensorflow, Pytorch, Google Colab Pro - is it worthy?)
-6. Twarc and Twitter API
+5. SVM 
+6. Deep learning (Tensorflow, Pytorch)
+7. Twarc and Twitter API
 
 
 ## May 13th Linguistic Inquiry and Word Count (LIWC)
@@ -61,4 +62,6 @@ If you do not know what Cronbach's alpha is, please check [Crocnbach's alpha](ht
 ### Questions to be answered. 
 About preprocessing. emoji, hashtag, etc.
 Does BERT contains the information covered in LIWC?
+
+##Twarch and Twitter API
 
