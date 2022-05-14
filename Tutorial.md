@@ -8,7 +8,7 @@
 5. SVM 
 6. Deep learning (Tensorflow, Pytorch with Google Colab pro GPU)
 7. [Twarc and Twitter API](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#twarch-and-twitter-api) 
-8. Regex
+8. [Regex](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#regex-or-pandas)
 
 
 ## May 13th Linguistic Inquiry and Word Count (LIWC)
