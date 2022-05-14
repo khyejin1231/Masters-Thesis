@@ -67,5 +67,11 @@ Does BERT contains the information covered in LIWC?
 ## Twarch and Twitter API
 
 
-## Regex
+## Regex or Pandas
+May 14th
+I wanted to cover Regex because I used it in many cases especially when I was searching for rows that contain specific strings.
+For example I use Regex to remove certain words in a string or attach strings together.
+
+But I did not know Pandas has a similar function. [Here](https://datatofish.com/substring-pandas-dataframe/) is a link to the website.
+
 
