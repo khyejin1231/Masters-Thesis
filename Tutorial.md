@@ -8,7 +8,7 @@
 5. SVM 
 6. Deep learning (Tensorflow, Pytorch with Google Colab pro GPU)
 7. [Twarc and Twitter API](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#twarch-and-twitter-api) 
-8. [Regex](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#regex-or-pandas)
+8. [Useful functions to know: Regex, Pandas, etc.](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#regex-or-pandas)
 
 
 ## May 13th Linguistic Inquiry and Word Count (LIWC)
@@ -61,17 +61,38 @@ If you do not know what Cronbach's alpha is, please check [Crocnbach's alpha](ht
 
 
 ### Questions to be answered. 
+Now I have sent an email to LIWC team to ask whether I need to do any text pre-processing before using LIWC on Twitter data. Their reply was as follows:
+'''
+Thanks so much for the email. You don't need to remove the hashtags or
+mentions. These words however will not get categorized by liwc. For
+instance, if a tweet says #excited, this word won't get categorized in
+the positive emotion dictionary. I think it gets counted in the
+"netspeak" dictionary-- I need to double check this. If you want the
+hashtagged words to get categorized based on the meanings of those
+words, you'll need to remove the hashtags. But liwc will not throw an
+error if you leave the hashtags in. Same for mentions. Let me know if
+this doesn't make sense or if you have more questions.
+'''
+
+
 About preprocessing. emoji, hashtag, etc.
 Does BERT contains the information covered in LIWC?
 
 ## Twarch and Twitter API
 
 
-## Regex or Pandas
+## Useful functions to know.
+### Regex or Pandas
 May 14th
 I wanted to cover Regex because I used it in many cases especially when I was searching for rows that contain specific strings.
 For example I use Regex to remove certain words in a string or attach strings together.
 
 But I did not know Pandas has a similar function. [Here](https://datatofish.com/substring-pandas-dataframe/) is a link to the website.
+
+### Drop duplicates
+I found many duplicate rows in my data so I wanted to remove these users. 
+How can I do that?
+In this case, you want to use ['dataframe.drop_duplicates()'](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/).
+
 
 
