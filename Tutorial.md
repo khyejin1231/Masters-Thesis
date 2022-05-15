@@ -6,9 +6,10 @@
 3. SHAP and interpretable machine learning
 4. BERT Embeddings
 5. SVM 
-6. Deep learning (Tensorflow, Pytorch with Google Colab pro GPU)
-7. [Twarc and Twitter API](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#twarch-and-twitter-api) 
-8. [Useful functions to know: Regex, Pandas, etc.](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#regex-or-pandas)
+6. Topic modelling
+7. Deep learning (Tensorflow, Pytorch with Google Colab pro GPU)
+8. [Twarc and Twitter API](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#twarch-and-twitter-api) 
+9. [Useful functions to know: Regex, Pandas, etc.](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#regex-or-pandas)
 
 
 ## May 13th Linguistic Inquiry and Word Count (LIWC)
@@ -78,6 +79,10 @@ this doesn't make sense or if you have more questions.
 
 About preprocessing. emoji, hashtag, etc.
 Does BERT contains the information covered in LIWC?
+
+## Topic modelling
+[Robust topic modelling](https://github.com/CasAndreu/rlda)
+
 
 ## Twarch and Twitter API
 (May 15)
