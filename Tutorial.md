@@ -62,7 +62,8 @@ If you do not know what Cronbach's alpha is, please check [Crocnbach's alpha](ht
 
 ### Questions to be answered. 
 Now I have sent an email to LIWC team to ask whether I need to do any text pre-processing before using LIWC on Twitter data. Their reply was as follows:
-'''
+
+"""
 Thanks so much for the email. You don't need to remove the hashtags or
 mentions. These words however will not get categorized by liwc. For
 instance, if a tweet says #excited, this word won't get categorized in
@@ -72,7 +73,7 @@ hashtagged words to get categorized based on the meanings of those
 words, you'll need to remove the hashtags. But liwc will not throw an
 error if you leave the hashtags in. Same for mentions. Let me know if
 this doesn't make sense or if you have more questions.
-'''
+"""
 
 
 About preprocessing. emoji, hashtag, etc.
