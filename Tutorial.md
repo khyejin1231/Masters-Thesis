@@ -101,7 +101,27 @@ For example I use Regex to remove certain words in a string or attach strings to
 
 But I did not know Pandas has a similar function. [Here](https://datatofish.com/substring-pandas-dataframe/) is a link to the website.
 
+#### How to remove quotations from a string
+Let's say you have a string
+```
+'"Nike"'
+```
+However, you want 
+```
+'Nike'
+```
+What can you do?
+There are multiple things that you can do. One is by using regex.
+But you have an entire column, what to do?
+Let's say you have a column A.
+Then, you should write:
+```ruby
+A = [re.sub('"','',x) for x in A]
+```
+
+
 ### Twarc2
+#### How to write a string per line
 If you use Twarc2 and want to scrape multiple user information or followers of multiple users, then you need to have a file that has one username per line.
 How do you create [this](https://www.codegrepper.com/code-examples/python/python+save+list+to+file+txt+one+per+line)?
 
@@ -113,6 +133,9 @@ with open('listfile.txt', 'w') as filehandle:
     for listitem in places:
         filehandle.write('%s\n' % listitem)
 ```
+
+
+
 
 ### github
 If you would like to create a tutorial like this, please consult [this website](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
