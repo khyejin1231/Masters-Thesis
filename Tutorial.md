@@ -133,7 +133,12 @@ with open('listfile.txt', 'w') as filehandle:
     for listitem in places:
         filehandle.write('%s\n' % listitem)
 ```
-
+#### Scraping followers of multiple users
+You can consult [this](https://twittercommunity.com/t/downloading-friends-from-a-list-of-users/155024/3).
+Using the command line, if you have a list of usernames in a file 1 per line called target_users.txt,
+```ruby
+while read line; do twarc2 followers "followers_of_$line.jsonl" && echo $line; done < target_users.txt
+```
 
 
 
