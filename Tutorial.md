@@ -80,11 +80,17 @@ About preprocessing. emoji, hashtag, etc.
 Does BERT contains the information covered in LIWC?
 
 ## Twarch and Twitter API
+(May 15)
+Twitter API could be intimidating. So here is an easy guide. There are so many things you need to know about this when you go into the [Twitter Development Platform](https://developer.twitter.com/en/docs). If you are a master's student, PhD or researcher, then you are eligible for a developer account. A detailed explanation on this process can be found [here](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api). But essentially, you need to be registered as one of the developers and you can do this by filling up a registration form. Good to know is that they use a bot to classify whether your application is fake or not. Twitter cancelled my API app because of that little bot. I wrote them an email and the issue got solved really quick. 
+
+Now, there are multiple tools that you can use to scrape Tweets using Twitter API. I recommend [Twarc2](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/). If you need a large set of data, do not use Postman. 
+
+When you search for tweets, there is a geotag function. Geotag allows you to find tweets that are from that specific location. We use geographical cooridnates to define this parameter. [Here](https://www.tweetbinder.com/blog/twitter-geocode/) is a tutorial on how to use this function. 
 
 
 ## Useful functions to know.
 ### Regex or Pandas
-May 14th
+(May 14th)
 I wanted to cover Regex because I used it in many cases especially when I was searching for rows that contain specific strings.
 For example I use Regex to remove certain words in a string or attach strings together.
 
