@@ -101,6 +101,23 @@ For example I use Regex to remove certain words in a string or attach strings to
 
 But I did not know Pandas has a similar function. [Here](https://datatofish.com/substring-pandas-dataframe/) is a link to the website.
 
+### Twarc2
+If you use Twarc2 and want to scrape multiple user information or followers of multiple users, then you need to have a file that has one username per line.
+How do you create [this](https://www.codegrepper.com/code-examples/python/python+save+list+to+file+txt+one+per+line)?
+
+```ruby
+# define list of places
+places = ['Berlin', 'Cape Town', 'Sydney', 'Moscow']
+
+with open('listfile.txt', 'w') as filehandle:
+    for listitem in places:
+        filehandle.write('%s\n' % listitem)
+```
+
+### github
+If you would like to create a tutorial like this, please consult [this website](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+
+
 ### Drop duplicates
 I found many duplicate rows in my data so I wanted to remove these users. 
 How can I do that?
