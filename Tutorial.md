@@ -123,6 +123,27 @@ Then, you should write:
 A = [re.sub('"','',x) for x in A]
 ```
 
+#### how to store a list of strings into a txt file
+```ruby
+for i in userid:
+    print(i)
+    l = api.get_follower_ids(user_id = i)
+    with open(f"{i}_followers.txt", 'w') as outfile:
+        for element in l:
+            outfile.write(','.join(element))
+```
+
+
+#### how to streo a list of integers into a txt file
+```ruby
+for i in userid:
+    print(i)
+    l = api.get_follower_ids(user_id = i)
+    with open(f"{i}_followers.txt", 'w') as outfile:
+        for element in l:
+            outfile.write('%i,' % element)
+```
+
 
 ### Twarc2
 #### How to write a string per line
