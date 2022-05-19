@@ -1,5 +1,9 @@
 # NLP tutorial
 
+fun thought:
+The process of writing thesis seems to be following a pattern:
+1. I can do this! 2. Oh wait, why does this data look like this? I need to check 3. oh crap, I need to change the whole thing 4. Phew still it is fixable 5. I can do this! 6. Oh wait, why does this data look like this? .....
+
 ## Table of contents
 1. [May 13th Linguistic Inquiry and Word Count (LIWC)](https://github.com/khyejin1231/Masters-Thesis/blob/main/Tutorial.md#may-13th-linguistic-inquiry-and-word-count-liwc)
 2. Google colab Review
